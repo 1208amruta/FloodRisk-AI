@@ -33,6 +33,4 @@ FloodRisk-AI is a flood risk detection dashboard developed using R and Shiny for
 ## Data Note
 The dataset contains illustrative sample data and should not be treated as real-time flood measurements or official flood predictions.
 
-## Course Details
-**Course:** Data Science Using R  
-**Teacher:** Priyanka Suryawanshi
+
